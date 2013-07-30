@@ -37,7 +37,7 @@ Add these lines to `app/assets/javascripts/application.js`
 ```js
 // provides HTML5 placeholder behavior for old browsers
 // from gem 'enableplaceholder-jquery-rails':
-//= require jquery.enablePlaceholder
+//= require enableplaceholder-jquery-rails
 ```
 
 ## Contributing
