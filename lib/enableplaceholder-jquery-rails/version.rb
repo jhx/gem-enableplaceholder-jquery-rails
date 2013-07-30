@@ -1,7 +1,7 @@
 module EnableplaceholderJquery
   module Rails
-    # Use logger version; append a pre-release version identifier if gem
-    # is updated without updating version of logger.
+    # Use enablePlaceholder version; append a pre-release version identifier
+    # if gem is updated without updating version of enablePlaceholder.
     # Examples:
     #   "2.0.0.rc1"
     #   "2.0.0.pre"
