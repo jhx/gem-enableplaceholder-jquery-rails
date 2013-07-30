@@ -8,16 +8,22 @@ Provides the `enablePlaceholder` jQuery plugin packaged for the Rails 3.1+ asset
 
 Add these lines to your application's Gemfile:
 
-    # enablePlaceholder jquery plugin packaged for the rails asset pipeline
-    gem 'enableplaceholder-jquery-rails', '~> 1.2.2'
+```rb
+# enablePlaceholder jquery plugin packaged for the rails asset pipeline
+gem 'enableplaceholder-jquery-rails', '~> 1.2.2'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install enableplaceholder-jquery-rails
+```sh
+$ gem install enableplaceholder-jquery-rails
+```
 
 Gem version notes:
 
@@ -28,9 +34,11 @@ Gem version notes:
 
 Add these lines to `app/assets/javascripts/application.js`
 
-    // provides HTML5 placeholder behavior for old browsers
-    // from gem 'enableplaceholder-jquery-rails':
-    //= require jquery.enablePlaceholder
+```js
+// provides HTML5 placeholder behavior for old browsers
+// from gem 'enableplaceholder-jquery-rails':
+//= require jquery.enablePlaceholder
+```
 
 ## Contributing
 
