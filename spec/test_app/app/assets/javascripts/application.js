@@ -1,0 +1,1 @@
+//= require enableplaceholder-jquery-rails
