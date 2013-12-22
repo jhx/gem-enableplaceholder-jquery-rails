@@ -22,6 +22,12 @@ Gem::Specification.new do |spec|
   spec.requirements << "jQuery"
   
   spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "capybara"
+  spec.add_development_dependency "coveralls"
+  spec.add_development_dependency "launchy"
+  spec.add_development_dependency "rails", "~> 3.1"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec-rails"
+  spec.add_development_dependency "semantic"
+  spec.add_development_dependency "sqlite3"
 end
