@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails)
 [![Dependency Status](https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails.png)](https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails)
 [![Code Climate](https://codeclimate.com/github/jhx/gem-enableplaceholder-jquery-rails.png)](https://codeclimate.com/github/jhx/gem-enableplaceholder-jquery-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-enableplaceholder-jquery-rails/badge.png)](https://coveralls.io/r/jhx/gem-enableplaceholder-jquery-rails)
 
 > Gemified by Doc Walker
 
