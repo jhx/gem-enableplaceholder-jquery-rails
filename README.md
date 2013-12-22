@@ -1,4 +1,6 @@
-# enableplaceholder-jquery-rails [![Gem Version](https://badge.fury.io/rb/enableplaceholder-jquery-rails.png)](http://badge.fury.io/rb/enableplaceholder-jquery-rails)
+# enableplaceholder-jquery-rails
+[![Gem Version](https://badge.fury.io/rb/enableplaceholder-jquery-rails.png)](http://badge.fury.io/rb/enableplaceholder-jquery-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails)
 
 > Gemified by Doc Walker
 
