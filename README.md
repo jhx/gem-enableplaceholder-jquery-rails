@@ -32,8 +32,8 @@ $ gem install enableplaceholder-jquery-rails
 
 Gem version notes:
 
-  - x.y.z version will track the `enablePlaceholder` plugin version;
-  - It may contain a suffix to differentiate versions of the gem based on the same `enablePlaceholder` plugin version;
+  - Version is in the format `X.Y.ZVV` where `X.Y.Z` is version of `enablePlaceholder` plugin and `VV` is version of gem (with leading zero);
+  - Refer to Semantic Versioning 2.0.0 (http://semver.org);
 
 ## Usage
 

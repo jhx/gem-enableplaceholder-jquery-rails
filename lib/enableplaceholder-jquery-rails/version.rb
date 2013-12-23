@@ -1,13 +1,13 @@
 module EnableplaceholderJquery
   module Rails
-    # Use enablePlaceholder version; append a pre-release version identifier
-    # if gem is updated without updating version of enablePlaceholder.
-    # Examples:
-    #   "2.0.0-1"
-    #   "2.0.0-rc1"
-    #   "2.0.0-pre"
-    #   "2.0.0-beta"
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = "1.2.2-2"
+    # Use enablePlaceholder version (major, minor, patch) and append a gem
+    # version identifier (denoted as VV below); use leading zero.
+    # Examples:
+    #   "X.Y.ZVV" is enablePlaceholder vX.Y.Z + gem release VV
+    #   "1.2.200" is enablePlaceholder v1.2.2 + gem release 0
+    #   "1.2.201" is enablePlaceholder v1.2.2 + gem release 1
+    #   "1.2.210" is enablePlaceholder v1.2.2 + gem release 10
+    VERSION = "1.2.202"
   end
 end
