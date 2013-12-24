@@ -8,6 +8,6 @@ module EnableplaceholderJquery
     #   "1.2.200" is enablePlaceholder v1.2.2 + gem release 0
     #   "1.2.201" is enablePlaceholder v1.2.2 + gem release 1
     #   "1.2.210" is enablePlaceholder v1.2.2 + gem release 10
-    VERSION = "1.2.202"
+    VERSION = "1.2.203"
   end
 end
