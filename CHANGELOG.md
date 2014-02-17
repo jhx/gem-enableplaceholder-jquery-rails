@@ -1,8 +1,8 @@
 CHANGELOG
 =========
 
-TBD
-------------------
+1.2.204 / 2014-02-16
+--------------------
 
 - `NEW` add ruby lint checks (via rubocop), fix flagged items | [#24][]
 - `IMPROVE` update `semantic` gem version | [#22][]

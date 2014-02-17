@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # enablePlaceholder jquery plugin packaged for the rails asset pipeline
-gem 'enableplaceholder-jquery-rails', '~> 1.2.203'
+gem 'enableplaceholder-jquery-rails', '~> 1.2.204'
 ```
 
 And then execute:
