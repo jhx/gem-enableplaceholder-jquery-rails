@@ -4,6 +4,9 @@ CHANGELOG
 TBD
 ------------------
 
+- `NEW` add ruby lint checks (via rubocop), fix flagged items | [#24][]
+- `IMPROVE` update `semantic` gem version | [#22][]
+- `NEW` add [CHANGELOG](CHANGELOG.md) | [#20][]
 - `IMPROVE` update `railties` gem dependency | [#18][]
 
 
@@ -60,3 +63,6 @@ Legend
 [#14]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/14
 [#16]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/16
 [#18]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/18
+[#20]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/20
+[#22]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/22
+[#24]: https://github.com/jhx/gem-enableplaceholder-jquery-rails/issues/24
