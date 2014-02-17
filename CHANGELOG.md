@@ -19,7 +19,7 @@ CHANGELOG
 1.2.202 / 2013-12-22
 --------------------
 
-- `IMPROVE` revise version to follow [Semantic Versioning](semver.org) | [#14][]
+- `IMPROVE` revise version to follow [Semantic Versioning](http://semver.org) | [#14][]
 
 
 1.2.2.pre.2 / 2013-12-22
