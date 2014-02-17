@@ -8,9 +8,12 @@ Gem::Specification.new do |spec|
   spec.version       = EnableplaceholderJquery::Rails::VERSION
   spec.authors       = ['Doc Walker']
   spec.email         = ['doc.walker@jameshardie.com']
-  spec.description   = %q{Provides the `enablePlaceholder` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
-  spec.summary       = %q{Provides the `enablePlaceholder` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
-  spec.homepage      = 'https://github.com/jhx/gem-enableplaceholder-jquery-rails'
+  spec.description   = 'Provides the `enablePlaceholder` jQuery plugin ' \
+                       'packaged for the Rails 3.1+ asset pipeline.'
+  spec.summary       = 'Provides the `enablePlaceholder` jQuery plugin ' \
+                       'packaged for the Rails 3.1+ asset pipeline.'
+  spec.homepage      = 'https://github.com/jhx/' \
+                       'gem-enableplaceholder-jquery-rails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)

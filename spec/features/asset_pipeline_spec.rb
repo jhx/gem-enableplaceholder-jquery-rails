@@ -5,6 +5,7 @@ feature 'Asset pipeline' do
     visit asset_path('application.js')
     # save_and_open_page  # for debugging (opens page in browser)
 
+    # rubocop:disable LineLength
     expect(page).to have_text(<<-EOF
     EnablePlaceholder jQuery plugin.
     https://github.com/marioizquierdo/enablePlaceholder
@@ -15,5 +16,6 @@ feature 'Asset pipeline' do
     and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
     EOF
     )
+    # rubocop:ensable LineLength
   end # scenario
 end # feature
