@@ -1,47 +1,54 @@
 CHANGELOG
 =========
 
+TBD
+------------------
+
+- `IMPROVE` - update CHANGELOG style
+- `IMPROVE` - fix rubocop LineLength offenses
+
+
 1.2.204 / 2014-02-16
 --------------------
 
-- `NEW` add ruby lint checks (via rubocop), fix flagged items | [#24][]
-- `IMPROVE` update `semantic` gem version | [#22][]
-- `NEW` add [CHANGELOG](CHANGELOG.md) | [#20][]
-- `IMPROVE` update `railties` gem dependency | [#18][]
+- `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#24][]
+- `IMPROVE` - update `semantic` gem version | [#22][]
+- `NEW` - add [CHANGELOG](CHANGELOG.md) | [#20][]
+- `IMPROVE` - update `railties` gem dependency | [#18][]
 
 
 1.2.203 / 2013-12-24
 --------------------
 
-- `IMPROVE` update coding style to match that of other jhx gems | [#16][]
+- `IMPROVE` - update coding style to match that of other jhx gems | [#16][]
 
 
 1.2.202 / 2013-12-22
 --------------------
 
-- `IMPROVE` revise version to follow [Semantic Versioning](http://semver.org) | [#14][]
+- `IMPROVE` - revise version to follow [Semantic Versioning](http://semver.org) | [#14][]
 
 
 1.2.2.pre.2 / 2013-12-22
 ------------------------
 
-- `IMPROVE` add code coverge badge to [README](README.md) | [#11][], [#12][]
-- `IMPROVE` add dependency badge to [README](README.md) | [#8][]
-- `NEW` add spec for dummy Rails app | [#6][]
-- `NEW` add support for Travis-CI | [#2][], [#3][], [#4][]
+- `IMPROVE` - add code coverge badge to [README](README.md) | [#11][], [#12][]
+- `IMPROVE` - add dependency badge to [README](README.md) | [#8][]
+- `NEW` - add spec for dummy Rails app | [#6][]
+- `NEW` - add support for Travis-CI | [#2][], [#3][], [#4][]
 
 
 1.2.2.1 / 2013-07-29
 --------------------
 
-- `IMPROVE` require gem name instead of jQuery plugin name
-- `IMPROVE` update [README](README.md) with minor changes
+- `IMPROVE` - require gem name instead of jQuery plugin name
+- `IMPROVE` - update [README](README.md) with minor changes
 
 
 1.2.2 / 2013-07-28
 ------------------
 
-- `NEW` initial release
+- `NEW` - initial release
 
 
 Legend
