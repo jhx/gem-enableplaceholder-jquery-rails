@@ -1,8 +1,8 @@
 CHANGELOG
 =========
 
-TBD
-------------------
+1.2.205 / 2014-02-20
+--------------------
 
 - `IMPROVE` - update CHANGELOG style
 - `IMPROVE` - fix rubocop LineLength offenses
