@@ -1,5 +1,17 @@
-CHANGELOG
-=========
+1.2.206 / 2014-10-29
+--------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/24dcd90)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/0e69682)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/ea0c64b)
+- `IMPROVE` - Update bundler gem prior to travis ci run | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/70fbef7)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/c959f93)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/834123c)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/5cb8d6f)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/e13f11f)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/d3e1494)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/af0d6eb)
+
 
 1.2.205 / 2014-02-20
 --------------------

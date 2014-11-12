@@ -11,7 +11,7 @@ module EnableplaceholderJquery
     #   "1.2.210" is enablePlaceholder v1.2.2 + gem release 10
     MAJOR = 1
     MINOR = 2
-    PATCH = 205
+    PATCH = 206
     BUILD = nil
     VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
