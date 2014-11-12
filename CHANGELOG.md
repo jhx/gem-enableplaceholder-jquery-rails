@@ -1,4 +1,4 @@
-1.2.206 / 2014-10-29
+1.2.206 / 2014-11-12
 --------------------
 
 - `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-enableplaceholder-jquery-rails/commit/24dcd90)
