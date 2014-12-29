@@ -1,9 +1,15 @@
 # enableplaceholder-jquery-rails
-[![Gem](http://img.shields.io/gem/v/enableplaceholder-jquery-rails.svg?style=flat)](https://rubygems.org/gems/enableplaceholder-jquery-rails)
-[![Travis](https://img.shields.io/travis/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)](https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails)
-[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)](https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails)
-[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)](https://codeclimate.com/github/jhx/gem-enableplaceholder-jquery-rails)
-[![Coveralls](http://img.shields.io/coveralls/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)](https://coveralls.io/r/jhx/gem-enableplaceholder-jquery-rails)
+[![Gem](http://img.shields.io/gem/v/enableplaceholder-jquery-rails.svg?style=flat)][gem]
+[![Travis](https://img.shields.io/travis/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][travis]
+[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][gemnasium]
+[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][code climate]
+[![Coveralls](http://img.shields.io/coveralls/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][coveralls]
+
+[gem]: https://rubygems.org/gems/enableplaceholder-jquery-rails
+[travis]: https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails
+[gemnasium]: https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails
+[code climate]: https://codeclimate.com/github/jhx/gem-enableplaceholder-jquery-rails
+[coveralls]: https://coveralls.io/r/jhx/gem-enableplaceholder-jquery-rails
 
 > Gemified by Doc Walker
 
