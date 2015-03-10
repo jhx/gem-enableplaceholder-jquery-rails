@@ -5,11 +5,11 @@
 [![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][code climate]
 [![Coveralls](http://img.shields.io/coveralls/jhx/gem-enableplaceholder-jquery-rails.svg?style=flat)][coveralls]
 
-[gem]: https://rubygems.org/gems/enableplaceholder-jquery-rails
-[travis]: https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails
-[gemnasium]: https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails
+[gem]:          https://rubygems.org/gems/enableplaceholder-jquery-rails
+[travis]:       https://travis-ci.org/jhx/gem-enableplaceholder-jquery-rails
+[gemnasium]:    https://gemnasium.com/jhx/gem-enableplaceholder-jquery-rails
 [code climate]: https://codeclimate.com/github/jhx/gem-enableplaceholder-jquery-rails
-[coveralls]: https://coveralls.io/r/jhx/gem-enableplaceholder-jquery-rails
+[coveralls]:    https://coveralls.io/r/jhx/gem-enableplaceholder-jquery-rails
 
 > Gemified by Doc Walker
 
